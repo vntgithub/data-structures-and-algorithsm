@@ -5,13 +5,13 @@ Compile the Code:
 Save the provided code into a file (e.g., search.cpp).
 Open a terminal or command prompt.
 Compile the code using a C++ compiler (e.g., g++):
-```console
+```
 g++ -o search search.cpp
 ```
 
 Run the Program:
 1. Execute the compiled program:
-```console
+```
 ./search
 ```
 
@@ -24,13 +24,13 @@ Run the Program:
 #Example Input and Output
 Suppose you run the program with the following input:
 
-```console
+```
 10 5
-10 20 30 40 50
+1 3 6 2 7 5 8 9 10 4
 ```
 
 The output will be:
 
-```console
+```
 Found element 30 at index 2
 ```
