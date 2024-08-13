@@ -32,5 +32,5 @@ Suppose you run the program with the following input:
 The output will be:
 
 ```
-Found element 30 at index 2
+Found element 5 at index 5
 ```
